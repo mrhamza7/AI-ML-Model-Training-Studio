@@ -33,7 +33,9 @@ With this tool, you can:
 ## 📸 Demo Screenshot
 
 <p align="center">
-  <img src="https://github.com/mrhamza7/AI-ML-Model-Training-Studio/blob/main/Screenshot%202025-06-30%20173722.png?raw=true" width="700" alt="AI/ML Studio Screenshot"/>
+  <img src="https://github.com/mrhamza7/AI-ML-Model-Training-Studio/blob/main/Screenshot 2025-06-30 193135.png?raw=true" width="700" alt="AI/ML Studio Screenshot"/>
+  <img src="https://github.com/mrhamza7/AI-ML-Model-Training-Studio/blob/main/Screenshot 2025-06-30 193135.png?raw=true" width="700" alt="AI/ML Studio Screenshot"/>
+  <img src="https://github.com/mrhamza7/AI-ML-Model-Training-Studio/blob/main/Screenshot 2025-06-30 193135.png?raw=true" width="700" alt="AI/ML Studio Screenshot"/>
 </p>
 
 ---
