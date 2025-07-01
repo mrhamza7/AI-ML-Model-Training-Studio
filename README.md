@@ -5,9 +5,12 @@
 <div align="center">
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/AI_ML_Model_Training_Studio/blob/main/AI_ML_Model_Training_Studio.ipynb)
+# 🤖 AI/ML Model Training Studio
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrhamza7/AI-ML-Model-Training-Studio/blob/main/AI_ML_Model_Training_Studio.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/AI_ML_Model_Training_Studio?style=social)]([https://github.com/your-username/AI_ML_Model_Training_Studio](https://github.com/mrhamza7/AI-ML-Model-Training-Studio.git))
+[![GitHub Stars](https://img.shields.io/github/stars/mrhamza7/AI-ML-Model-Training-Studio?style=social)](https://github.com/mrhamza7/AI-ML-Model-Training-Studio)
+
 
 </div>
 
