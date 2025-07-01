@@ -1,7 +1,7 @@
 # 🤖 AI/ML Model Training Studio
 
 *A no-code interactive studio to explore datasets, select features, train machine learning models, and visualize results—all in one notebook.*
-![App Screenshot](https://github.com/mrhamza7/AI-ML-Model-Training-Studio/blob/main/s?raw=true)
+![App Screenshot](https://github.com/mrhamza7/AI-ML-Model-Training-Studio/blob/main/Screenshot 2025-06-30 173722.png?raw=true)
 
 <div align="center">
 
