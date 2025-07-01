@@ -7,7 +7,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/AI_ML_Model_Training_Studio/blob/main/AI_ML_Model_Training_Studio.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/AI_ML_Model_Training_Studio?style=social)](https://github.com/your-username/AI_ML_Model_Training_Studio)
+[![GitHub Stars](https://img.shields.io/github/stars/your-username/AI_ML_Model_Training_Studio?style=social)]([https://github.com/your-username/AI_ML_Model_Training_Studio](https://github.com/mrhamza7/AI-ML-Model-Training-Studio.git))
 
 </div>
 
@@ -49,7 +49,7 @@ Ideal for students, educators, and professionals who want to experiment with mac
   - Accuracy score
   - Confusion matrix
   - Classification report
-  - Visual charts (bar plots, heatmaps, etc.)
+  - Visual charts (Confusion Matrix, Data Distribution,Feature Importance ,Model Performance, etc.)
 
 ---
 
@@ -69,7 +69,7 @@ Ideal for students, educators, and professionals who want to experiment with mac
 
 Easily run the notebook in your browser:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/AI_ML_Model_Training_Studio/blob/main/AI_ML_Model_Training_Studio.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrhamza7/AI-ML-Model-Training-Studio/blob/main/AI_ML_Model_Training_Studio.ipynb)
 
 ---
 
@@ -79,7 +79,7 @@ Easily run the notebook in your browser:
    Open the project in Google Colab or Jupyter Notebook.
 
 2. **Upload Dataset**  
-   Upload any `.csv` file using the upload button provided.
+   Upload any `.csv,.xlsx,.xls` file using the upload button provided.
 
 3. **Explore the Dataset**
    - View top records
@@ -144,7 +144,7 @@ Contributions are welcome! If you have ideas, improvements, or feature requests:
 ## 📬 Contact
 
 **Author**:  Muhammad Hamza 
-**GitHub**: [@your-username](https://github.com/your-username)  
+**GitHub**: [@mrhamza7](https://github.com/mrhamza7)  
 **Email**: hamzamr635@gmail.com
 
 ---
